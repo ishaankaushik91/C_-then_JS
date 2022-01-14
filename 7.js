@@ -1,5 +1,4 @@
 // Sigma n^n/n! (LOOPS)
-
 function Factorial(range)
 {
     let pi = 1;
